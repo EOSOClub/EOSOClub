@@ -1,5 +1,3 @@
-# 👋 Hey, I'm EOSOfficial
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=20&duration=4000&color=4d0eb3&center=true&vCenter=true&width=500&lines=Community+Architect+⚡+Bot+Weaver;AI+Enhanced+Developer;Building+Connected+Experiences;Empire+of+Shadows+Founder" alt="Typing Animation" />
 </p>
