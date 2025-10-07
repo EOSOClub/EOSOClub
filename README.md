@@ -18,7 +18,7 @@
 
 ---
 
-## ⚡ What Makes My Work Unique
+## ⚡ What Makes My Work Unique(ish)
 
 <p align="center">
   <strong>🤖 Native Bot Integration • 🧩 No Workarounds • 🔗 Seamless Communication</strong>
