@@ -89,9 +89,11 @@ Creating native communication channels between all community bots, allowing them
 
 <div align="center">
 
-[![Designers](https://img.shields.io/badge/🎨-Designers-4d0eb3?style=flat-square&logo=adobe&logoColor=white&labelColor=000000)]()
-[![Developers](https://img.shields.io/badge/💻-Developers-4d0eb3?style=flat-square&logo=code&logoColor=white&labelColor=000000)]()
-[![Community](https://img.shields.io/badge/🤝-Community%20Builders-4d0eb3?style=flat-square&logo=people&logoColor=white&labelColor=000000)]()
+[![Community](https://img.shields.io/badge/🤝-Community%20Builders-4d0eb3?style=flat-square&logo=people&logoColor=white&labelColor=000000)](https://github.com/EOSOClub/EOSOClub/blob/main/Contribute/Community.md)
+[![Writers](https://img.shields.io/badge/🎨-Designers-4d0eb3?style=flat-square&logo=adobe&logoColor=white&labelColor=000000)](https://github.com/EOSOClub/EOSOClub/blob/main/Contribute/Writers.md)
+[![Designers](https://img.shields.io/badge/🎨-Designers-4d0eb3?style=flat-square&logo=adobe&logoColor=white&labelColor=000000)](https://github.com/EOSOClub/EOSOClub/blob/main/Contribute/Designers.md)
+[![Developers](https://img.shields.io/badge/💻-Developers-4d0eb3?style=flat-square&logo=code&logoColor=white&labelColor=000000)](https://github.com/EOSOClub/EOSOClub/blob/main/Contribute/Developers.md)
+[![Testers](https://img.shields.io/badge/💻-Developers-4d0eb3?style=flat-square&logo=code&logoColor=white&labelColor=000000)](https://github.com/EOSOClub/EOSOClub/blob/main/Contribute/BetaTesters.md)
 
 </div>
 
