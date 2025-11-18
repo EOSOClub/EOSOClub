@@ -74,15 +74,6 @@ Creating native communication channels between all community bots, allowing them
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://stats-cny8.vercel.app/api?username=EOSOclub&show_icons=true&title_color=4d0eb3&icon_color=4d0eb3&text_color=darkgray&bg_color=000000&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://stats-cny8.vercel.app/api/top-langs/?username=EOSOclub&layout=compact&title_color=4d0eb3&text_color=darkgray&bg_color=000000&hide_border=true" alt="Top Languages" width="41%" />
-</p>
-
----
-
 ## 🎯 Open For Collaboration
 
 <div align="center">
